@@ -114,7 +114,7 @@ iPLC 隧道不经过拥堵的公网出国、不经过防火墙，是目前最优
 
 **如何贡献代码？**
 
-通常的情况下，对 [factory 目录](https://github.com/h2y/Shadowrocket-ADBlock-Rules/tree/master/factory) 下的 3 个 `manual_*.txt` 文件做对应修改即可。
+通常的情况下，对 [factory 目录](https://github.com/dommm1024/Shadowrocket-Rules/tree/master/factory) 下的 3 个 `manual_*.txt` 文件做对应修改即可。
 
 
 ## 捐助
