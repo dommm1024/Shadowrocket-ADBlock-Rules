@@ -1,3 +1,5 @@
+### forked from h2y/Shadowrocket-ADBlock-Rulesz，自用得规则会维护进来
+
 ## 最完善的 iOS 翻墙规则
 
 ### 停止更新公告
